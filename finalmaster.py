@@ -74,7 +74,7 @@ class Appointment():
         return self.iTotal_days                                     # returns the days value
         from datetime import datetime
 
-# class variable within customer class
+#  class variable within customer class
 company_name = "Critter Watch"
 
 first_name = input("What is your first name? ")
