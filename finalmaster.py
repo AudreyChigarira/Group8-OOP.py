@@ -42,6 +42,7 @@ class pet():
     #pet method    
         oCustomer.cust_pet = Pet(self.pet_name, self.breed, self.iAge, self.oCustomer)
         return(oCustomer.cust_pet)
+        from datetime import datetime
 class Appointment():
 
     def __init__(self, owner):
